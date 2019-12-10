@@ -3,7 +3,7 @@ TDD is to keep the code maintainable. Also reduces technical debt
 
 ### TDD 
 What is it?
-How do you implement it.
+How do you implement it. ALWAYS write the test before starting the code.
 
 ### Unit testing
 What is it?
@@ -12,7 +12,7 @@ What are the benefits:
 ### Tools for python
 
 ### Unittest
-Unittest comes with python(standard).
+Unittest comes with python(standard). Requires you to import it and self.Assert(x) rather than just assert which can be used in pytest.
 
 ### Pytest
 Pytest needs to be installed with package, however it is clean and efficient. 
