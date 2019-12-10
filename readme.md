@@ -8,6 +8,10 @@ How do you implement it. ALWAYS write the test before starting the code.
 ### Unit testing
 What is it?
 What are the benefits:
+- Maintainable
+- Reduces technical debt
+- Know when you are done
+- sense of direction
 
 ### Tools for python
 
